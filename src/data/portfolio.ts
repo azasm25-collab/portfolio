@@ -1,13 +1,13 @@
 export const portfolio = {
- name: 'TODO: Your name', role: 'AI Developer & Software Engineering Student', location: 'Astana, Kazakhstan',
+ name: 'Smatullaev Azamat', role: 'AI Developer & Software Engineering Student', location: 'Astana, Kazakhstan',
  githubUrl: '', // TODO: personal GitHub profile URL
- organizationUrl: 'https://github.com/The-Fabulous', telegramUrl: '', email: '', // TODO: contact details
+ organizationUrl: 'https://github.com/The-Fabulous', telegramUrl: 'https://t.me/Yami0019', telegramUsername: '@Yami0019', email: '', // TODO: email
  bio: 'I’m a student at Astana IT University, building practical experience through prototypes, backend systems, and AI applications. I’m interested in what happens after a model responds: how software uses tools, works with data, and takes useful action.',
  interests: ['Agentic AI', 'LLM orchestration', 'Tool calling', 'Local & cloud models', 'Backend architecture', 'Automation', 'Developer tools'],
  projects: [
  {name:'CampusPulse AI',type:'Hackathon · Collaborative project',description:'An AI-enabled campus LMS connecting student and teacher workspaces with Firestore-backed academic data and an auditable API/MCP tool layer.',tags:['Python','Firestore','REST APIs','MCP'],url:'https://github.com/PrikoI/campuspulse-ai',note:'Public README verified. Individual contribution not independently verified.',visual:'campus'},
  {name:'JARVIS',type:'Experimental · Personal project',description:'Exploring a hybrid assistant that combines local and cloud language models. Research directions include voice interaction, model routing, tool calling, and permission-aware device automation.',tags:['Local LLMs','Tool calling','Automation'],url:'',note:'Work in exploration; listed capabilities are research directions, not a completed feature set.',visual:'jarvis'},
- {name:'SocialBridge',type:'University project · Concept exploration',description:'Exploring AI-assisted communication and the transition from AI conversations to human interaction, with attention to conversation lifecycles, authorization, privacy, and human matching.',tags:['Data modeling','Authorization','Privacy'],url:'',note:'Description supplied by the project owner; implementation not independently verified.',visual:'social'}
+ {name:'SocialBridge',type:'University project · Concept exploration',description:'Exploring AI-assisted communication and the transition from AI conversations to human interaction, with attention to conversation lifecycles, authorization, privacy, and human matching.',tags:['Data modeling','Authorization','Privacy'],url:'https://github.com/The-Fabulous/telegram_socialbot',note:'Description supplied by the project owner; implementation not independently verified.',visual:'social'}
  ],
  organizationRepos:['Classifi','secretbox','telegram_socialbot','secretbox_menus','Govyadina','Keep_In_Touch'],
  experience:[{organization:'GDG Astana',title:'AI for SmartCity Hackathon',project:'CampusPulse AI',description:'AI-enabled educational systems, backend development, and Firebase integration. Participation and focus supplied by the portfolio owner.'}],
