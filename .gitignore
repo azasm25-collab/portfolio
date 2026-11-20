@@ -1,0 +1,22 @@
+﻿node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.npm-cache/
+
+# Local tooling and generated files
+.idea/
+.vscode/
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+coverage/
+
+# Credentials and private keys
+.npmrc
+*.pem
+*.key
+*service-account*.json
+firebase-key.json
